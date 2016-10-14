@@ -1,0 +1,24 @@
+{
+  "name": "metadata-microservice",
+  "version": "1.0.0",
+  "description": "Implements the metadata microservice as described by freecodecamp.com.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathgrind/metadata-microservice.git"
+  },
+  "author": "Arthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathgrind/metadata-microservice/issues"
+  },
+  "homepage": "https://github.com/mathgrind/metadata-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "formidable": "^1.0.17",
+    "multer": "^1.2.0"
+  }
+}
